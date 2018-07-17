@@ -1,0 +1,15 @@
+{
+  "name": "com.phonegap.helloworld",
+  "version": "0.0.1",
+  "displayName": "SwrvePhoneGapDemo",
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-ios": "~4.1.1",
+    "cordova-android": "~5.1.1"
+  }
+}
